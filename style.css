@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d9f5f6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+   
+}
+
+.conteiner {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.img {
+    width: 30px;
+    height: 100px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+.headphone-name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  
+}
+
+.old-price {
+    text-decoration: line-through;
+    color: #888;
+    font-size: 14px;
+}
+
+
+
+
+.free-shipping {
+    color: #2c9f2c;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.one{
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.one:hover {
+    background-color: #0056b3;
+}
+
+.stock {
+    color: #2c9f2c;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.two {
+    margin-top: 10px;
+    background-color: #ddd;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    
+}
+
+.two:hover {
+    background-color: #bbb;
+}
+.three{
+  margin-top:10px ;
+  background-color:#ddd ;
+  padding: 8px 15px;
+  border: none;
+  border-radius:5px ;
+
+}
+.three:hover{
+  background-color:#ddd;
+}
+
